@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AniCommerce</string>
+    <string name="app_hint_username">Username</string>
+    <string name="app_hint_password">Password</string>
+    <string name="shr_button_next">Next</string>
+    <string name="shr_button_cancel">Cancel</string>
+    <string name="shr_error_password">Password must contain at least 8 characters.</string>
+    <string name="shr_filter_title">Filter</string>
+    <string name="shr_search_title">Search</string>
+    <string name="shr_product_title">Title</string>
+    <string name="shr_product_description">Secondary text</string>
+
+    <!-- Shrine backdrop menu labels -->
+    <string name="app_login_label">Login</string>
+    <string name="app_autres_label">Autres</string>
+    <string name="app_account_label">Mon compte</string>
+    <string name="categorie">catégorie</string>
+    <string name="lorem">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l\'imprimerie depuis les années 1500</string>
+</resources>
